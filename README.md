@@ -1,4 +1,5 @@
 # Youtube-Scraper
+
 A youtube data scrapper using beautifulsoup/Requests
 
 Data scrapped :
@@ -34,13 +35,13 @@ Data scrapped :
     
 To scrape the youtube comments uncomment the line 29 and 96 in the scrapper_youtube.py but take note that this will add more time for the programme to run
 
-# Run the programme:
+# Run the programme : 
 
 source .venv/bin/activate
 
 python scrapper.py --input input.json --output output.json
 
-# To run the tests
+# How to run :
 
 python -m pytest tests
 
