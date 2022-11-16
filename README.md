@@ -37,15 +37,15 @@ To scrape the youtube comments uncomment the line 29 and 96 in the scrapper_yout
 
 # Run the programme : 
 
-source .venv/bin/activate
+**source .venv/bin/activate**
 
 python scrapper.py --input input.json --output output.json
 
 # How to run :
 
-python -m pytest tests
+**python -m pytest tests**
 
-coverage run -m pytest tests
+**coverage run -m pytest tests**
 
-coverage report to show the test coverage result 
+**coverage report to show the test coverage result **
 
