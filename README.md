@@ -47,5 +47,5 @@ python scrapper.py --input input.json --output output.json
 
 **coverage run -m pytest tests**
 
-**coverage report to show the test coverage result **
+**coverage report to show the test coverage result**
 
