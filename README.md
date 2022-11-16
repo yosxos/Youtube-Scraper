@@ -33,3 +33,8 @@ Data scrapped :
     "playerType":
     
 To scrape the youtube comments uncomment the line 29 and 96 in the scraper.py but take note that this will add more time for the programme to run
+
+#Run the programme:
+source .venv/bin/activate
+python scrapper.py --input input.json --output output.json
+
